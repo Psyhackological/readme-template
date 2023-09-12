@@ -11,35 +11,29 @@
   [![Version](https://img.shields.io/pypi/v/your-package-name.svg)](https://pypi.org/project/your-package-name/)
   [![Crates.io](https://img.shields.io/crates/v/your-crate.svg)](https://crates.io/crates/your-crate)
 
+  ![DemoGif](path/to/gif.png)
+
 </div>
 
 ## 📚 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Dependencies](#dependencies)
-4. [Installation](#installation)
-5. [Building](#building)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [Roadmap](#roadmap)
-9. [Wiki](#wiki)
-10. [FAQ](#faq)
-11. [Credits](#credits)
-12. [Donate](#donate)
-13. [License](#license)
+1. [Introduction](#-introduction)
+2. [Features](#-features)
+3. [Dependencies](#-dependencies)
+4. [Installation](#-installation)
+5. [Building](#-building)
+6. [Usage](#-usage)
+7. [Contributing](#-contributing)
+8. [Roadmap](#-roadmap)
+9. [Wiki](#-wiki)
+10. [FAQ](#-faq)
+11. [Credits](#-credits)
+12. [Donate](#-donate)
+13. [License](#-license)
 
 ## 👋 Introduction
 
 More detailed description of the project. Maybe include its history, motivation, etc.
-
-### Demo
-
-<div align="center">
-  <a href="https://www.your-demo-link.com">
-    <img src="path/to/demo.gif" alt="Demo Video">
-  </a>
-</div>
 
 ## 🎨 Features
 
