@@ -98,6 +98,32 @@ Want to contribute? Awesome! :tada:
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get started.
 
+### :file_folder: Project Structure
+
+```text
+my_project/                            # Root directory
+├── src/                               # Source code
+│   ├── main.py                        # Main application script
+│   └── utils/                         # Utility modules
+│       └── helper.py                  
+├── tests/                             # Test cases
+│   ├── unit_tests.py                 
+│   └── integration_tests.py           
+├── config/                            # Configuration files
+│   └── config.json                    
+├── data/                              # Data files (if applicable)
+│   └── sample_data.csv                
+├── docs/                              # Documentation
+│   ├── README.md                     
+│   └── CHANGELOG.md                   
+├── scripts/                           # Build or utility scripts
+│   └── setup.sh                       
+├── .gitignore                         # Files to ignore in git
+├── setup.py                           # Setup script for pip package
+├── requirements.txt                   # Required packages list
+└── README.md                          # Project description
+```
+
 Contributors:
 
 ## :world_map: Roadmap
